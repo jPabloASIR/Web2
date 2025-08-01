@@ -380,8 +380,8 @@ header.top-bar > * {
   }
 
   .main-menu-bar a {
-    font-size: 0.9rem; /* Aún más pequeño para caber en una sola línea */
-    padding: 4px 6px;
+    font-size: 1.5rem; /* Aún más pequeño para caber en una sola línea */
+    padding: 8px 12px;
   }
 }
 
