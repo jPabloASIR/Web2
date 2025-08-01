@@ -365,8 +365,8 @@ header.top-bar > * {
   }
 
   .main-menu-bar a {
-    font-size: 1.5rem; /* Tamaño de texto un poco más pequeño */
-    padding: 8px 12px;  /* Espaciado interno menor */
+    font-size: 0.9rem; /* Tamaño de texto un poco más pequeño */
+    padding: 4px 6px;  /* Espaciado interno menor */
   }
 }
 
@@ -380,8 +380,8 @@ header.top-bar > * {
   }
 
   .main-menu-bar a {
-    font-size: 1.5rem; /* Aún más pequeño para caber en una sola línea */
-    padding: 8px 12px;
+    font-size: 0.7rem; /* Aún más pequeño para caber en una sola línea */
+    padding: 4px 6px;
   }
 }
 
