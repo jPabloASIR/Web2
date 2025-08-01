@@ -374,13 +374,13 @@ header.top-bar > * {
 
 @media (max-width: 400px) {
   .main-menu-bar ul {
-    gap: 2px;        /* Menor espacio entre elementos */
-    padding: 0 6px;
+    gap: 5px;        /* Menor espacio entre elementos */
+    padding: 0 10px;
     flex-wrap: wrap; /* Permite ajustar mejor si aún no cabe */
   }
 
   .main-menu-bar a {
-    font-size: 0.8rem; /* Aún más pequeño para caber en una sola línea */
+    font-size: 0.9rem; /* Aún más pequeño para caber en una sola línea */
     padding: 4px 6px;
   }
 }
