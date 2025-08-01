@@ -1,0 +1,11 @@
+menu header principal hacerlo mas pequeño en moviles
+
+about-gallery media-query (no se ve en horizontal en telefonos)
+
+En telefonos no ocurre el problema de las preguntas (preguntas de los materiales)
+
+footer se ve un poco raro
+
+galeria.html necesita unas flechas para subir/bajar mucho mas rapido
+
+todos los demas html excepto index.html necesitan actualizarse
