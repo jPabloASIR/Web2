@@ -374,8 +374,8 @@ header.top-bar > * {
 
 @media (max-width: 400px) {
   .main-menu-bar ul {
-    gap: 5px;        /* Menor espacio entre elementos */
-    padding: 0 7px;
+    gap: 4px;        /* Menor espacio entre elementos */
+    padding: 0 6px;
     flex-wrap: wrap; /* Permite ajustar mejor si aún no cabe */
   }
 
